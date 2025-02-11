@@ -2,7 +2,7 @@
 
 A fully functional chess game built using C#. This project includes core chess mechanics, piece movement validation, and a graphical user interface.
 
-![Chess Game](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chess_Board.svg/1024px-Chess_Board.svg.png)
+![Chess Game](images/chess-image.jpg)
 
 ## Features 🎮
 - ✅ Full implementation of chess rules
@@ -27,7 +27,7 @@ A fully functional chess game built using C#. This project includes core chess m
 - Players can now choose between **Traditional Chess** and **Chess960** before starting a game.
 - In **Chess960**, the initial piece setup is randomized according to Chess960 rules.
 - All standard chess movement rules apply.
-- Castling is currently disabled for Chess960.
+- Castling is currently **disabled** for Chess960.
 
 ## Usage 🏆
 - Click on a piece to see its available moves.
@@ -46,10 +46,10 @@ A fully functional chess game built using C#. This project includes core chess m
 
 ## Testing ✅
 - Added **unit tests** to ensure both **Traditional Chess** and **Chess960** board setups work correctly.
-- Implemented 5-10 tests to validate piece placements and initial board configurations.
+- Implemented multiple tests to validate piece placements and initial board configurations.
 
 ## Contributing 🤝
-1. Fork the repository
+1. Fork the repository.
 2. Create a new branch:  
    ```sh
    git checkout -b feature-branch
@@ -62,7 +62,7 @@ A fully functional chess game built using C#. This project includes core chess m
    ```sh
    git push origin feature-branch
    ```
-5. Submit a pull request
+5. Submit a pull request.
 
 ## License 📜
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -71,3 +71,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 For any questions or suggestions, feel free to open an issue or reach out!
 
 ![Chess Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chess_piece_-_King.svg/1024px-Chess_piece_-_King.svg.png)
+
