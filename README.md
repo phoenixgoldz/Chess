@@ -2,7 +2,7 @@
 
 A fully functional chess game built using C#. This project includes core chess mechanics, piece movement validation, and a graphical user interface.
 
-![Chess Game](Chess/images/chess-image.jpg)
+![Chess Game](images/chess-image.jpg)
 
 ## Features 🎮
 - ✅ Full implementation of chess rules
