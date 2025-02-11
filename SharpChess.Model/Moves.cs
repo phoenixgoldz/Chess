@@ -402,6 +402,11 @@ namespace SharpChess.Model
             }
         }
 
+        internal Move Last()
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 }

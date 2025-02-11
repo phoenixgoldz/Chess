@@ -1056,6 +1056,11 @@ namespace SharpChess.Model
             }
         }
 
+        internal bool CanMoveTo(Square square)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 }

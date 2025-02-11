@@ -591,6 +591,16 @@ namespace SharpChess.Model
             return (this.Name >= MoveNames.PawnPromotionQueen) && (this.Name <= MoveNames.PawnPromotionBishop);
         }
 
+        internal void Execute()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void Undo()
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 }

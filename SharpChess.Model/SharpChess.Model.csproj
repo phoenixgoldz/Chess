@@ -67,6 +67,7 @@
     <Compile Include="AI\Search.cs" />
     <Compile Include="Board.cs" />
     <Compile Include="BoardDebug.cs" />
+    <Compile Include="Chess960Setup.cs" />
     <Compile Include="FEN.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="IPieceTop.cs" />

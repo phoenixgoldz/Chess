@@ -39,7 +39,20 @@ namespace SharpChess.Model
     public static class Board
     {
         #region Constants and Fields
+        public static void Reset()
+        {
+            // Clear the board before setting up
+        }
 
+        public static void InitializeTraditional()
+        {
+            // Set up the board in standard chess configuration
+        }
+
+        public static void SetupChess960Position()
+        {
+            // Logic to randomly generate a Chess960 position following its constraints
+        }
         /// <summary>
         ///   Number of files on the chess board.
         /// </summary>
@@ -97,7 +110,7 @@ namespace SharpChess.Model
             /// <summary>
             ///   White at the bottom.
             /// </summary>
-            White, 
+            White,
 
             /// <summary>
             ///   Black at the bottom.
@@ -530,6 +543,11 @@ namespace SharpChess.Model
         private static int OrdinalFromFileRank(int file, int rank)
         {
             return (rank << 4) | file;
+        }
+
+        internal static void SetPositionFromFen(string fen)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

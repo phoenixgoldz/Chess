@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chess\\sharpchess.model\\ches960tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\ches960tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chess\\sharpchess.model\\chess960setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\chess960setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chess\\sharpchess.model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chess\\sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Board.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Board.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Board.cs",
+              "RelativeToolTip": "SharpChess.Model\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:53:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chess960Setup.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Chess960Setup.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Chess960Setup.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Chess960Setup.cs",
+              "RelativeToolTip": "SharpChess.Model\\Chess960Setup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywDUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:50:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ches960Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Ches960Tests.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Ches960Tests.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Ches960Tests.cs",
+              "RelativeToolTip": "SharpChess.Model\\Ches960Tests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:50:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Game.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\Chess\\SharpChess.Model\\Game.cs",
+              "RelativeToolTip": "SharpChess.Model\\Game.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:46:11.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BestMoveTest.cs" />
+    <Compile Include="Chess960Tests.cs" />
     <Compile Include="GameTest.cs" />
     <Compile Include="HashTableCheckTest.cs" />
     <Compile Include="MovesTest.cs" />
